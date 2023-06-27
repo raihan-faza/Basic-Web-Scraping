@@ -7,4 +7,5 @@ Information to scrape:
   - Country Capital
   - Country Population
   - Country Area
+
 Objective: Scrape the data and move it into csv file.
